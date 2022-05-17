@@ -4,21 +4,5 @@ teste do meu primeiro repositório
 > lalala
 > yeyeye
 
-	---
-  
-  -- [] caixa de seleção
-  -- [] outra
-
-I need to highlight these ==very important words==
-
-	H~2~O
-  
-  	X^24455^55565
-    | Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [ ] deve ser dado espaço para rolar o check
+- [] assim não funciona 
