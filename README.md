@@ -6,8 +6,8 @@ teste do meu primeiro repositório
 
 	---
   
-  - [] caixa de seleção
-  - [] outra
+  -- [] caixa de seleção
+  -- [] outra
 
 I need to highlight these ==very important words==
 
